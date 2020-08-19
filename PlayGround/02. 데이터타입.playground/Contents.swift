@@ -92,3 +92,4 @@ let dollaSign = "\u{24}"
 print(dollaSign)
 let blackHeart = "\u{2665}"
 print(blackHeart)
+print("\u{AE40} \u{C2B9} \u{D76C}")
