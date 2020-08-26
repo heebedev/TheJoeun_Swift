@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     let imgRemove = UIImage(named: "lamp-remove.png")
     
     var isLampOn:Bool = true
+
     
     
     override func viewDidLoad() {
