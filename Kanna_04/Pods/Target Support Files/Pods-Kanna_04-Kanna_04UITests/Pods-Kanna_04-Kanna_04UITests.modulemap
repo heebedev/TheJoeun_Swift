@@ -1,0 +1,6 @@
+framework module Pods_Kanna_04_Kanna_04UITests {
+  umbrella header "Pods-Kanna_04-Kanna_04UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

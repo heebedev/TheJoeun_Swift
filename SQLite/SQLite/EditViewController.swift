@@ -23,8 +23,6 @@ class EditViewController: UIViewController {
     var receiveDept = ""
     var receivePhone = ""
     
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
